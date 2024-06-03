@@ -1,0 +1,144 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/tuberculosis---primary.py
+inputModule3:
+  class: File
+  path: python/other-tuberculosis-primary-care---primary.py
+inputModule4:
+  class: File
+  path: python/tuberculosis-primary-care-generalized---primary.py
+inputModule5:
+  class: File
+  path: python/tuberculosis-primary-care-respiratory---primary.py
+inputModule6:
+  class: File
+  path: python/tracheobronchial-tuberculosis-primary-care---primary.py
+inputModule7:
+  class: File
+  path: python/tuberculosis-primary-care---primary.py
+inputModule8:
+  class: File
+  path: python/tuberculosis-primary-care-miliary---primary.py
+inputModule9:
+  class: File
+  path: python/tuberculosis-primary-care-mycobacterium---primary.py
+inputModule10:
+  class: File
+  path: python/tuberculosis-primary-care-ciprofloxacin---primary.py
+inputModule11:
+  class: File
+  path: python/tuberculosis-primary-care-multidrug---primary.py
+inputModule12:
+  class: File
+  path: python/laryngeal-tuberculosis-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/tuberculosis-primary-care-cavitation---primary.py
+inputModule14:
+  class: File
+  path: python/tuberculosis-primary-care-trachea---primary.py
+inputModule15:
+  class: File
+  path: python/acute-tuberculosis-primary-care---primary.py
+inputModule16:
+  class: File
+  path: python/isoniazid-tuberculosis-primary-care---primary.py
+inputModule17:
+  class: File
+  path: python/tuberculosis-primary-care-sequelae---primary.py
+inputModule18:
+  class: File
+  path: python/infiltrative-tuberculosis-primary-care---primary.py
+inputModule19:
+  class: File
+  path: python/single-tuberculosis-primary-care---primary.py
+inputModule20:
+  class: File
+  path: python/tuberculosis-primary-care-bronchu---primary.py
+inputModule21:
+  class: File
+  path: python/tuberculosis-primary-care-pleura---primary.py
+inputModule22:
+  class: File
+  path: python/tuberculosis-primary-care-examin---primary.py
+inputModule23:
+  class: File
+  path: python/tuberculosis-primary-care-streptomycin---primary.py
+inputModule24:
+  class: File
+  path: python/pulmonary-tuberculosis-primary-care---primary.py
+inputModule25:
+  class: File
+  path: python/tuberculosis-primary-care-effects---primary.py
+inputModule26:
+  class: File
+  path: python/histy-tuberculosis-primary-care---primary.py
+inputModule27:
+  class: File
+  path: python/tuberculosis-primary-care-specified---primary.py
+inputModule28:
+  class: File
+  path: python/tuberculosis-primary-care-laryngitis---primary.py
+inputModule29:
+  class: File
+  path: python/intrathoracic-tuberculosis-primary-care---primary.py
+inputModule30:
+  class: File
+  path: python/nodular-tuberculosis-primary-care---primary.py
+inputModule31:
+  class: File
+  path: python/tuberculosis-primary-care-ethionamide---primary.py
+inputModule32:
+  class: File
+  path: python/tuberculosis-primary-care-disseminated---primary.py
+inputModule33:
+  class: File
+  path: python/tuberculosis-primary-care-culture---primary.py
+inputModule34:
+  class: File
+  path: python/tuberculosis-primary-care-pyrazinamide---primary.py
+inputModule35:
+  class: File
+  path: python/tuberculosis-primary-care-histology---primary.py
+inputModule36:
+  class: File
+  path: python/positive-tuberculosis-primary-care---primary.py
+inputModule37:
+  class: File
+  path: python/tuberculosis-primary-care-pleurisy---primary.py
+inputModule38:
+  class: File
+  path: python/progressive-tuberculosis-primary-care---primary.py
+inputModule39:
+  class: File
+  path: python/multiple-tuberculosis-primary-care---primary.py
+inputModule40:
+  class: File
+  path: python/tuberculosis-primary-care-associated---primary.py
+inputModule41:
+  class: File
+  path: python/tuberculosis-primary-care-nasopharynx---primary.py
+inputModule42:
+  class: File
+  path: python/tuberculosis-primary-care-ethambutol---primary.py
+inputModule43:
+  class: File
+  path: python/tuberculosis-primary-care-means---primary.py
+inputModule44:
+  class: File
+  path: python/tuberculosis-primary-care-rifampicin---primary.py
+inputModule45:
+  class: File
+  path: python/tuberculosis-primary-care-confirmed---primary.py
+inputModule46:
+  class: File
+  path: python/hilar-tuberculosis-primary-care---primary.py
+inputModule47:
+  class: File
+  path: python/output-cases.py
